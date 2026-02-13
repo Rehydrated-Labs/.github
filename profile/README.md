@@ -1,6 +1,6 @@
 # Quicksand Rehydrated
 
-Quicksand Rehydrated is a planned collection of mods for Minecraft 1.20.1 that adds quicksand, hostile mobs, and various terrain hazards along with ways to deal with (and make more of) them. Inspired by MrBlackGoo's *More Fun Quicksand Mod*, the intention is to remaster the mod for modern versions, add new content, and revamp old content. it is very much a work in progress, and some progress has been made so far, but there is plenty to be done.
+Quicksand Rehydrated is a planned collection of mods for Minecraft Forge 1.20.1 that adds quicksand, hostile mobs, and various terrain hazards along with ways to deal with (and make more of) them. Inspired by MrBlackGoo's *More Fun Quicksand Mod*, the intention is to remaster the mod for modern versions, add new content, and revamp old content. it is very much a work in progress, and some progress has been made so far, but there is plenty to be done.
 
 
 The planned mod collection is as follows:
